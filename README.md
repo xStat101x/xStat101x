@@ -1,8 +1,8 @@
 # Rex Kenyon
 
-**Cybersecurity student at Penn State | Security research | Software development**
+**Cybersecurity student at Penn State**
 
-I'm interested in understanding how systems work, where they fail, and how to make them more secure. My work combines cybersecurity labs, programming projects, and research into AI-assisted security testing.
+I'm interested in understanding how systems work, where they fail, and how to make them more secure. My work combines cybersecurity labs, programming projects, and research into AI-assisted security testing and automation.
 
 ## Featured project: AI Pentester
 
