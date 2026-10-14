@@ -16,10 +16,10 @@ The design work covers engagement scope, agent workflows, finding management, an
 
 | Collection | What you'll find |
 |---|---|
-| [Personal cybersecurity projects](https://github.com/xStat101x/personal-projects) | AI Pentester research, OPNsense and Kali exercises, and National Cyber League challenge work |
-| [Cybersecurity coursework](https://github.com/xStat101x/coursework-security) | Cyber-362 labs, log-analysis notebooks, datasets, and written assignments |
+| [Personal cybersecurity projects](https://github.com/xStat101x/personal-projects) | AI Pentester research, OPNsense, Kali configuration, and National Cyber League challenge work |
 | [Programming projects](https://github.com/xStat101x/coursework-programming) | Java and Python coursework, object-oriented programming, GUI exercises, and earlier projects |
 | [Web component projects](https://github.com/xStat101x/coursework-web-components) | JavaScript components built with Lit and the HAX ecosystem |
+| [Cybersecurity coursework](https://github.com/xStat101x/coursework-security) | Cyber-362 labs, log-analysis notebooks, datasets, and written assignments |
 
 ## Tools and technologies
 
